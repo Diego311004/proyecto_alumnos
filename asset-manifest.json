@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Diego311004/proyecto_alumnos.git/static/css/main.2ccf7d2c.css",
+    "main.js": "/Diego311004/proyecto_alumnos.git/static/js/main.95040fae.js",
+    "static/media/damir-bosnjak.jpg": "/Diego311004/proyecto_alumnos.git/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/Diego311004/proyecto_alumnos.git/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
+    "static/media/ayo-ogunseinde-2.jpg": "/Diego311004/proyecto_alumnos.git/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
+    "static/media/mike.jpg": "/Diego311004/proyecto_alumnos.git/static/media/mike.d34d0690a264ad046861.jpg",
+    "static/media/joe-gardner-2.jpg": "/Diego311004/proyecto_alumnos.git/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
+    "static/media/mujer.webp": "/Diego311004/proyecto_alumnos.git/static/media/mujer.baef992dc62847a4e1fc.webp",
+    "static/media/hombre.png": "/Diego311004/proyecto_alumnos.git/static/media/hombre.2cb823db7cc40aafc1db.png",
+    "static/media/nucleo-icons.eot": "/Diego311004/proyecto_alumnos.git/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/Diego311004/proyecto_alumnos.git/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/logo_new_2022.png": "/Diego311004/proyecto_alumnos.git/static/media/logo_new_2022.c47f1c9a15ec04838ed8.png",
+    "static/media/nucleo-icons.woff": "/Diego311004/proyecto_alumnos.git/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/Diego311004/proyecto_alumnos.git/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/Diego311004/proyecto_alumnos.git/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2ccf7d2c.css",
+    "static/js/main.95040fae.js"
+  ]
+}
